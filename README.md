@@ -1,3 +1,3 @@
 # Shiny Chat Assistant
 
-Chat assistant that is connected to Gemini API
+It's a chat assistant which is connected to Gemini API
